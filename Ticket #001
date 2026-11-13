@@ -1,0 +1,48 @@
+# Ticket #001 — Computer Performance Issue
+
+**Category:** Hardware / Software Troubleshooting  
+**Priority:** Medium  
+**Status:** Simulated resolution  
+**Environment:** Windows 10
+
+## 1. Problem Description
+
+The user reported that the computer was running slowly, applications were freezing, and startup was taking longer than usual.
+
+## 2. Initial Investigation
+
+System specifications:
+- RAM: 8 GB
+- Storage: 256 GB SSD
+- Operating System: Windows 10
+
+Initial observations:
+- RAM utilization: 91%
+- Disk utilization: 100%
+- Google Chrome memory usage: 2.8 GB
+
+## 3. Troubleshooting Procedure
+
+1. Asked the user which applications were experiencing performance issues.
+2. Opened Windows Task Manager.
+3. Checked CPU, memory and disk utilization.
+4. Identified Google Chrome as the largest individual RAM consumer in the supplied scenario.
+5. Proposed investigating browser tabs and extensions.
+
+## 4. Proposed Resolution
+
+Review browser tabs and extensions, identify unnecessary resource consumption, and perform controlled performance testing.
+
+## 5. Validation
+
+Compare resource utilization before and after the adjustments. Ask the user to confirm whether the performance issue has improved.
+
+## 6. Skills Demonstrated
+
+- Basic Windows troubleshooting
+- Task Manager analysis
+- RAM and disk utilization concepts
+- User communication
+- Technical documentation
+
+**Project type:** Simulated Help Desk case study.
